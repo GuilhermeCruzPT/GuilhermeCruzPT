@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bem-Vindo eu sou o Guilherme Cruz 👋
 
 <div align="center">
   <a href="https://github.com/guilhermecruzpt">
@@ -25,7 +25,7 @@
   <a href = "mailto:guilhermecruz128@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-cruz-768908172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/guilhermecruzpt/guilhermecruzpt/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GuilhermeCruzPT/GuilhermeCruzPT/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
