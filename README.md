@@ -38,7 +38,7 @@
   
 ### A estudar neste momento:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+<!-- ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; -->
 
 <br><br>
 
@@ -58,7 +58,7 @@
 <div> 
   <div align="center">
     <br>
-    <p align="centre"><b>Visitors Count</b></p> 
+    <p align="centre"><b>Contagem de visitantes</b></p> 
   </div>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeCruzPT}/count.svg" /></p> 
   
