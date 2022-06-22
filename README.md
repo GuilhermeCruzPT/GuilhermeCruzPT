@@ -1,5 +1,7 @@
 ### Bem-Vindo eu sou o Guilherme Cruz 👋
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Guilherme Cruz&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
 <div align="center">
   <a href="https://github.com/guilhermecruzpt">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=guilhermecruzpt&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
