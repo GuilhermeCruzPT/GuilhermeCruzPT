@@ -18,15 +18,19 @@
 <br>
 
 ### Habilidades principais:
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-0D1117?style=for-the-badge&logo=Android-Studio&labelColor=0D1117)&nbsp;
+![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 ### Ferramentas:
+![AndroidStudio](https://img.shields.io/badge/-Android_Studio-0D1117?style=for-the-badge&logo=Android-Studio&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![phpstorm](https://img.shields.io/badge/-phpstorm-0D1117?style=for-the-badge&logo=phpstorm&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![XAMPP](https://img.shields.io/badge/-XAMPP-0D1117?style=for-the-badge&logo=xampp&labelColor=0D1117)&nbsp;
+![Adobe-Photoshop](https://img.shields.io/badge/-adobe_photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
